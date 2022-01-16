@@ -88,10 +88,10 @@ body #user-button .u-icons a div {
   padding: 0.5rem;
   transition: 0s;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"] {
+body #user-button .u-icons a[href="https://twitter.com/BetaWalnut"] {
   position: relative;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"]:before {
+body #user-button .u-icons a[href="https://twitter.com/BetaWalnut"]:before {
   content: "Middle Click";
   position: absolute;
   top: -1.5rem;
@@ -106,14 +106,14 @@ body #user-button .u-icons a[href="https://twitter.com/Osorpenke"]:before {
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"].show:before {
+body #user-button .u-icons a[href="https://twitter.com/BetaWalnut"].show:before {
   opacity: 1;
   transition: 0.25s ease-out;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"] div {
+body #user-button .u-icons a[href="https://twitter.com/BetaWalnut"] div {
   color: #1da1f2;
 }
-body #user-button .u-icons a[href="https://codepen.io/z-"] div {
+body #user-button .u-icons a[href=""] div {
   background: black;
   color: white;
 }
