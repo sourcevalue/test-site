@@ -104,7 +104,7 @@ body {
 					//box-shadow:0 0 .5rem -.25rem var(--user-button-shadow);
 					transition:0s;
 				}
-            &[href="https://twitter.com/Osorpenke"] {
+            &[href="https://twitter.com/BetaWalnut"] {
                position:relative;
                &:before {
                   content:'Middle Click';
@@ -131,7 +131,7 @@ body {
 					   color:#1da1f2;
                }
 				}
-				&[href="https://codepen.io/z-"] div {
+				&[href="https://www.roblox.com/users/176461699/profile"] div {
 					background:black;
 					color:white;
 					//--user-button-cardborder:var(--user-button-text);
